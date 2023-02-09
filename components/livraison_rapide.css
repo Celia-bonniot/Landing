@@ -1,0 +1,9 @@
+.bloc-livraison {
+  background-color: #D61D59;
+  padding: 7px;
+}
+
+.bloc-livraison p {
+  color: white;
+  font-weight: 700;
+}

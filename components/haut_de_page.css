@@ -1,0 +1,24 @@
+.haut-de-page {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.picto-haut-de-page {
+  display: flex;
+  gap: 0px 30px;
+}
+
+.picto-haut-de-page i {
+  font-size: 30px;
+}
+
+.picto-haut-de-page i:hover {
+  color: #9E2656;
+}
+
+#logo {
+  width: 250px;
+  height: 43,328px;
+}

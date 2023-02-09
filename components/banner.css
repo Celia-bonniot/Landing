@@ -1,0 +1,30 @@
+.banner {
+  background-image: url("../images/banner.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 365px;
+  position: relative;
+}
+
+.flèche-banner-gauche {
+  width: 60px;
+  height: 80px;
+  background-color: rgba(255, 255, 255, 0.3);
+  position: absolute;
+  top: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flèche-banner-droite {
+  width: 60px;
+  height: 80px;
+  background-color: rgba(255, 255, 255, 0.3);
+  position: absolute;
+  top: 40%;
+  right: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

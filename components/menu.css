@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 30px;
+  margin-bottom: 15px;
+}
+
+.menu h2 {
+  font-weight: 600;
+  font-size: 15;
+}
+
+.menu h2:hover {
+  color: #9E2656;
+}

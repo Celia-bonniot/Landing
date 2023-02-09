@@ -1,0 +1,71 @@
+@import url(components/barre_recherche.css);
+@import url(components/haut_de_page.css);
+@import url(components/menu.css);
+@import url(components/banner.css);
+@import url(components/livraison_rapide.css);
+@import url(components/catégories_produits.css);
+@import url(components/réseaux_sociaux.css);
+@import url(components/avis_réseaux_newsletter.css);
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.container {
+  width: 1100px;
+  margin: 40 auto;
+}
+
+
+i {
+  font-size: 30;
+  color: black;
+}
+
+
+i:hover {
+  color:#9E2656;
+}
+
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  font-size: 30;
+  text-align: center;
+  color: #1B393A;
+}
+
+
+h2 {
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+
+
+p {
+  color:darkgrey;
+  font-size:13;
+  margin: auto 0;
+  text-align: center;
+  line-height: 1,9;
+}
+
+.container-texte {
+  width: 900px;
+  margin: 15 auto;
+}
+
+
+body {
+  margin: 0;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+form {
+
+}

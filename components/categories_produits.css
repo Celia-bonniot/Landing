@@ -1,0 +1,133 @@
+.categorie-produit-1 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.bloc-pano-peinture {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.categorie-papier-peint {
+  background-image: url("../images/papier-peint-1.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+  width: 540px;
+  position: relative;
+  margin-right: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.categorie-papier-peint a {
+  position: absolute;
+  bottom: 10px;
+  text-decoration: none;
+}
+
+.categorie-panoramique {
+  background-image: url("../images/papier-peint-2.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 265px;
+  width: 540px;
+  margin-bottom: 20px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.categorie-panoramique a {
+  position: absolute;
+  bottom: 10px;
+  text-decoration: none;
+}
+
+.categorie-peinture {
+  background-image: url("../images/papier-peint-3.jpeg");
+  background-size: cover;
+  background-position: center;
+  height:265px;
+  width: 540px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.categorie-peinture a {
+  position: absolute;
+  bottom: 10px;
+  text-decoration: none;
+}
+
+.categorie-produit-2 {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 60px;
+  justify-content: space-between;
+}
+
+.categorie-tissu {
+  background-image: url("../images/papier-peint-4.jpeg");
+  background-size: cover;
+  background-position: center;
+  height:353px;
+  width: 353px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.categorie-tissu a {
+  position: absolute;
+  bottom: 10px;
+  text-decoration: none;
+}
+
+.categorie-frise {
+  background-image: url("../images/papier-peint-5.jpeg");
+  background-size: cover;
+  background-position: center;
+  height:353px;
+  width: 353px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.categorie-frise a {
+  position: absolute;
+  bottom: 10px;
+  text-decoration: none;
+}
+
+.categorie-decoration {
+  background-image: url("../images/papier-peint-6.jpeg");
+  background-size: cover;
+  background-position: center;
+  height:353px;
+  width: 353px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.categorie-decoration a {
+  position: absolute;
+  bottom: 10px;
+  text-decoration: none;
+}
+
+.bouton {
+  background-color: white;
+  color: #1B393A;
+  padding: 5px 20px;
+  width: fit-content;
+}
+
+.bouton:hover {
+  background-color: #9E2656;
+  color: white;
+}

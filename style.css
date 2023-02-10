@@ -3,9 +3,9 @@
 @import url(components/menu.css);
 @import url(components/banner.css);
 @import url(components/livraison_rapide.css);
-@import url(components/catégories_produits.css);
-@import url(components/réseaux_sociaux.css);
-@import url(components/avis_réseaux_newsletter.css);
+@import url(components/categories_produits.css);
+@import url(components/reseaux_sociaux.css);
+@import url(components/avis_reseaux_newsletter.css);
 
 * {
   font-family: 'Montserrat', sans-serif;

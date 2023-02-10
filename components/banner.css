@@ -6,7 +6,7 @@
   position: relative;
 }
 
-.flèche-banner-gauche {
+.fleche-banner-gauche {
   width: 60px;
   height: 80px;
   background-color: rgba(255, 255, 255, 0.3);
@@ -17,7 +17,7 @@
   justify-content: center;
 }
 
-.flèche-banner-droite {
+.fleche-banner-droite {
   width: 60px;
   height: 80px;
   background-color: rgba(255, 255, 255, 0.3);

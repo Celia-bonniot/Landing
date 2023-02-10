@@ -1,0 +1,49 @@
+.barre-reassurance {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.barre-reassurance i {
+  padding: 0 118px;
+  padding-top: 25px;
+  color: #9E2656;
+}
+
+.barre-reassurance p {
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+.bloc-livraison-rapide {
+  width: 275px;
+  height: 130px;
+  background-color: #F4F2F0;
+}
+
+.bloc-reprise-rouleaux {
+  width: 275px;
+  height: 130px;
+  background-color: #F4F2F0;
+  margin-left: 2;
+}
+
+.bloc-satisfait-rembourse {
+  width: 275px;
+  height: 130px;
+  background-color: #F4F2F0;
+  margin-left: 2;
+}
+
+.bloc-echantillons {
+  width: 275px;
+  height: 130px;
+  background-color: #F4F2F0;
+  margin-left: 2;
+}
+
+
+
+
+

@@ -15,3 +15,10 @@
   color: darkgrey;
   font-size: 25;
 }
+
+.barre-recherche input {
+  width: 335px;
+  height: 50px;
+  border-color: rgb(255 255 255 / 30%);
+  color: darkgrey;
+}

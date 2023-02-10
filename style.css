@@ -6,6 +6,7 @@
 @import url(components/categories_produits.css);
 @import url(components/reseaux_sociaux.css);
 @import url(components/avis_reseaux_newsletter.css);
+@import url(components/barre_reassurance.css);
 
 * {
   font-family: 'Montserrat', sans-serif;
@@ -66,6 +67,6 @@ ul {
   padding-left: 0px;
 }
 
-form {
-
+.redtext{
+  color: #9E2656;
 }
